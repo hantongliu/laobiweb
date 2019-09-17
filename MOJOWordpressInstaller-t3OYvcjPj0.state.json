@@ -1,0 +1,50 @@
+{
+    "steps": [],
+    "failures": [],
+    "skip": {
+        "plugin.akismet\/akismet.php": "skip",
+        "plugin.hello.php": "skip",
+        "plugin.jetpack\/jetpack.php": "skip",
+        "plugin.mojo-marketplace-wp-plugin\/mojo-marketplace.php": "skip",
+        "plugin.sumome\/sumome.php": "skip"
+    },
+    "output": {
+        "logs": [
+            "Starting up.",
+            "Starting step addWPDieHandler",
+            "Completed step addWPDieHandler.",
+            "Starting step prepareForInstallationProcess",
+            "Completed step prepareForInstallationProcess.",
+            "Starting step checkRequiredFiles",
+            "Completed step checkRequiredFiles.",
+            "Starting step checkCoreCompatibility",
+            "Completed step checkCoreCompatibility.",
+            "Starting step wpInstall",
+            "running WP Install",
+            {
+                "Hit an error inside step wpInstall": {
+                    "errno": 2,
+                    "errstr": "gzinflate(): data error",
+                    "errfile": "\/home2\/giobserv\/public_html\/wp-includes\/class-wp-http-encoding.php",
+                    "errline": 58,
+                    "trace": "#0 [internal function]: MOJOOutput::error_handler(2, 'gzinflate(): da...', '\/home2\/giobserv...', 58, Array)\n#1 \/home2\/giobserv\/public_html\/wp-includes\/class-wp-http-encoding.php(58): gzinflate('\\x1F\\x8B\\x08\\x00\\x00\\x00\\x00\\x00\\x00\\x03\\xED\\\\[s\\xDB...')\n#2 \/home2\/giobserv\/public_html\/wp-includes\/class-wp-http-curl.php(293): WP_Http_Encoding::decompress('\\x1F\\x8B\\x08\\x00\\x00\\x00\\x00\\x00\\x00\\x03\\xED\\\\[s\\xDB...')\n#3 \/home2\/giobserv\/public_html\/wp-includes\/class-http.php(433): WP_Http_Curl->request('http:\/\/www.giob...', Array)\n#4 \/home2\/giobserv\/public_html\/wp-includes\/class-http.php(342): WP_Http->_dispatch_request('http:\/\/www.giob...', Array)\n#5 \/home2\/giobserv\/public_html\/wp-includes\/class-http.php(496): WP_Http->request('http:\/\/www.giob...', Array)\n#6 \/home2\/giobserv\/public_html\/wp-includes\/http.php(170): WP_Http->get('http:\/\/www.giob...', Array)\n#7 \/home2\/giobserv\/public_html\/wp-admin\/includes\/upgrade.php(334): wp_remote_get('http:\/\/www.giob...', Array)\n#8 \/home2\/giobserv\/public_html\/wp-admin\/includes\/upgrade.php(91): wp_install_maybe_enable_pretty_permalinks()\n#9 [internal function]: wp_install('\\xE5\\xBE\\xB7\\xE5\\x9B\\xBD\\xE5\\xB7\\xA5\\xE4\\xB8\\x9A\\xE8\\xA7\\x82...', 'bleach198946@go...', 'bleach198946@go...', false, '', 'Shaq198946!')\n#10 \/home2\/giobserv\/public_html\/MOJOWordpressInstaller-t3OYvcjPj0.php(132): call_user_func_array('wp_install', Array)\n#11 \/home2\/giobserv\/public_html\/MOJOWordpressInstaller-t3OYvcjPj0.php(1543): MOJOControlInverter->__call('mockable_wp_ins...', Array)\n#12 \/home2\/giobserv\/public_html\/MOJOWordpressInstaller-t3OYvcjPj0.php(1543): MOJOWordpressHandler->mockable_wp_install('\\xE5\\xBE\\xB7\\xE5\\x9B\\xBD\\xE5\\xB7\\xA5\\xE4\\xB8\\x9A\\xE8\\xA7\\x82...', 'bleach198946@go...', 'bleach198946@go...', false, '', 'Shaq198946!')\n#13 \/home2\/giobserv\/public_html\/MOJOWordpressInstaller-t3OYvcjPj0.php(1243): MOJOWordpressHandler->wpInstall()\n#14 \/home2\/giobserv\/public_html\/MOJOWordpressInstaller-t3OYvcjPj0.php(1296): MOJOBaseHandler->exec('wpInstall')\n#15 \/home2\/giobserv\/public_html\/MOJOWordpressInstaller-t3OYvcjPj0.php(892): MOJOBaseHandler->runStep()\n#16 \/home2\/giobserv\/public_html\/MOJOWordpressInstaller-t3OYvcjPj0.php(866): MOJOProcess->executeSteps(Object(MOJOWordpressHandler))\n#17 \/home2\/giobserv\/public_html\/MOJOWordpressInstaller-t3OYvcjPj0.php(1828): MOJOProcess->execute()\n#18 {main}"
+                }
+            },
+            "Completed step wpInstall.",
+            "Starting step setUpSiteOptions",
+            "Completed step setUpSiteOptions.",
+            "Starting step theme.activate",
+            "Skipping theme setup",
+            "Completed step theme.activate.",
+            "Starting step plugin.activateAll",
+            "Activating plugin akismet\/akismet.php",
+            "Activating plugin hello.php",
+            "Activating plugin jetpack\/jetpack.php",
+            "Activating plugin mojo-marketplace-wp-plugin\/mojo-marketplace.php",
+            "Activating plugin sumome\/sumome.php",
+            "Completed plugin activation",
+            "Completed step plugin.activateAll."
+        ],
+        "softFailures": []
+    }
+}

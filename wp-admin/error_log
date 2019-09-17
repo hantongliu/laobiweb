@@ -1,0 +1,341 @@
+[20-Dec-2018 03:50:44 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[20-Dec-2018 03:50:44 UTC] PHP Warning:  PHP Startup: http: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[20-Dec-2018 03:50:44 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[20-Dec-2018 03:50:44 UTC] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[20-Dec-2018 03:50:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zval_used_for_init in Unknown on line 0
+[20-Dec-2018 03:50:44 UTC] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[20-Dec-2018 03:50:44 UTC] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[09-Jan-2019 18:50:11 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[09-Jan-2019 18:50:11 UTC] PHP Warning:  PHP Startup: http: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[09-Jan-2019 18:50:11 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[09-Jan-2019 18:50:11 UTC] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[09-Jan-2019 18:50:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zval_used_for_init in Unknown on line 0
+[09-Jan-2019 18:50:11 UTC] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[09-Jan-2019 18:50:11 UTC] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Jan-2019 00:11:50 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Jan-2019 00:11:50 UTC] PHP Warning:  PHP Startup: http: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Jan-2019 00:11:50 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Jan-2019 00:11:50 UTC] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Jan-2019 00:11:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zval_used_for_init in Unknown on line 0
+[14-Jan-2019 00:11:50 UTC] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Jan-2019 00:11:50 UTC] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Jan-2019 00:11:53 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Jan-2019 00:11:53 UTC] PHP Warning:  PHP Startup: http: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Jan-2019 00:11:53 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Jan-2019 00:11:53 UTC] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Jan-2019 00:11:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zval_used_for_init in Unknown on line 0
+[14-Jan-2019 00:11:53 UTC] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Jan-2019 00:11:53 UTC] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Jan-2019 12:06:50 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Jan-2019 12:06:50 UTC] PHP Warning:  PHP Startup: http: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Jan-2019 12:06:50 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Jan-2019 12:06:50 UTC] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Jan-2019 12:06:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zval_used_for_init in Unknown on line 0
+[14-Jan-2019 12:06:50 UTC] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Jan-2019 12:06:50 UTC] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[16-Jan-2019 06:05:01 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[16-Jan-2019 06:05:01 UTC] PHP Warning:  PHP Startup: http: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[16-Jan-2019 06:05:01 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[16-Jan-2019 06:05:01 UTC] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[16-Jan-2019 06:05:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zval_used_for_init in Unknown on line 0
+[16-Jan-2019 06:05:01 UTC] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[16-Jan-2019 06:05:01 UTC] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[24-Jan-2019 00:55:25 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[24-Jan-2019 00:55:25 UTC] PHP Warning:  PHP Startup: http: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[24-Jan-2019 00:55:25 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[24-Jan-2019 00:55:25 UTC] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[24-Jan-2019 00:55:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zval_used_for_init in Unknown on line 0
+[24-Jan-2019 00:55:25 UTC] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[24-Jan-2019 00:55:25 UTC] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[28-Jan-2019 08:48:12 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[28-Jan-2019 08:48:12 UTC] PHP Warning:  PHP Startup: http: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[28-Jan-2019 08:48:12 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[28-Jan-2019 08:48:12 UTC] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[28-Jan-2019 08:48:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zval_used_for_init in Unknown on line 0
+[28-Jan-2019 08:48:12 UTC] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[28-Jan-2019 08:48:12 UTC] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[29-Jan-2019 03:20:27 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[29-Jan-2019 03:20:27 UTC] PHP Warning:  PHP Startup: http: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[29-Jan-2019 03:20:27 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[29-Jan-2019 03:20:27 UTC] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[29-Jan-2019 03:20:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zval_used_for_init in Unknown on line 0
+[29-Jan-2019 03:20:27 UTC] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[29-Jan-2019 03:20:27 UTC] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[08-Feb-2019 02:08:27 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[08-Feb-2019 02:08:27 UTC] PHP Warning:  PHP Startup: http: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[08-Feb-2019 02:08:27 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[08-Feb-2019 02:08:27 UTC] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[08-Feb-2019 02:08:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zval_used_for_init in Unknown on line 0
+[08-Feb-2019 02:08:27 UTC] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[08-Feb-2019 02:08:27 UTC] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[21-Feb-2019 23:51:52 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[21-Feb-2019 23:51:52 UTC] PHP Warning:  PHP Startup: http: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[21-Feb-2019 23:51:52 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[21-Feb-2019 23:51:52 UTC] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[21-Feb-2019 23:51:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zval_used_for_init in Unknown on line 0
+[21-Feb-2019 23:51:52 UTC] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[21-Feb-2019 23:51:52 UTC] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0

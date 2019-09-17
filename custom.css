@@ -1,0 +1,290 @@
+#filterbox {
+	
+	height: 260px;
+	width: 100%;
+	border: solid 1px #DEE2E6; */
+	padding-bottom: 2px;
+	z-index: 1152;
+
+}
+
+#filterbox h3 {
+	padding-top: 15px;
+	font-size: 22px;
+}
+
+#table {
+	padding-top: 50px;
+}
+
+#idsearch {
+	width: 300px;
+}
+
+.display-4 {
+	font-size: 45px;
+}
+
+#profilebox h3 {
+	font-size: 25px;
+}
+
+.pagination {
+	float:right;
+
+}
+
+#results {
+	float: left;
+	font-weight: bold;
+
+}
+
+#boxy1 { 
+	border: solid 2px #E5E5E5;
+	border-radius: 5px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+	padding-top: 17px;
+	padding-bottom: 20px;
+
+}
+
+#boxy2 { 
+	border: solid 2px #E5E5E5;
+	border-radius: 5px;
+	margin-left: 10px;
+
+	margin-bottom: 20px;
+	padding-top: 17px;
+
+}
+
+#business-descr h3 {
+
+	font-size: 20px;
+	margin-top: 20px;
+
+
+}
+
+#business-descr hr {
+	margin-top: 8px;
+	padding: 0px;
+}
+
+
+
+#profilebox button {
+	float: right;
+	margin-top: 0px;
+	display: inline;
+	margin-left: 20px;
+	
+}
+
+#profilebox h3 {
+	display: inline;
+}
+
+#boxy1 th, #boxy2 th, #boxy5 th, #boxy8 th {
+	padding-right: 80px;
+}
+
+#idsearch {
+	float: left;
+	margin-right: 20px;
+
+}
+
+.dropdown {
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 5px;
+
+}
+
+#filter-button {
+	display: block;
+
+	margin-top: 0px;
+}
+
+#filter-hr {
+	display: block;
+	margin-top: 75px;
+	
+}
+
+#product-descr {
+	border: solid 2px #E5E5E5;
+	border-radius: 5px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+
+#product-descr h3 {
+	font-size: 20px;
+	margin-top: 20px;
+	margin-left: 5px;
+}
+
+#product-descr hr {
+	margin-top: 8px;
+	padding: 0px;
+}
+
+.card {
+	background-color: #FFFFFF;
+	margin-bottom: 5px;
+	padding-left: 0px;
+
+}
+
+.card-header {
+	text-align: left;
+	background-color: white;
+	padding-left: 0px;
+}
+
+
+
+#accordion .btnaccor {
+	padding: 0px;
+	background-color; 
+	float: left;
+	border: none;
+	font-size: 15px;
+	color: black;
+	text-decoration: none;
+
+}
+
+.padaccor {
+	padding: 0px;
+}
+
+.accordicon {
+	margin-right: 10px;
+}
+
+
+
+
+
+
+#financials {
+	border: solid 2px #E5E5E5;
+	border-radius: 5px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+
+}
+
+#financials h3 {
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+#financials hr {
+	margin-top: 8px;
+	padding: 0px;
+}
+
+#boxy5 {
+	border-right: solid 1px #E5E5E5;
+
+}
+
+#boxy6 {
+	
+}
+
+#fin-text {
+	font-size: 14px;
+}
+
+#financials button {
+	margin-bottom: 5px;
+	background-color: white;
+	color: #0062CC;
+	height: 45px;
+	font-size: 16px;
+}
+
+#financials button:hover {
+	background-color: #0062CC;
+	color: white;
+}
+
+#boxy7, #boxy8 {
+	border: solid 2px #E5E5E5;
+	border-radius: 5px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	height: ;
+}
+
+#boxy7 h3, #boxy8 h3 {
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+#boxy7 hr, #boxy8 hr {
+	margin-top: 8px;
+	padding: 0px;
+}
+
+#boxy7	{
+	margin-right: 10px;
+}
+
+#boxy8	{
+	margin-left: 10px;
+}
+
+#footer {
+	background-color: #E9ECEF;
+	height: 100px;
+	margin-top: 50px;
+}
+
+#patent-pagination {
+	margin-top: 7px;
+	margin-right: 13px;
+}
+
+.section-icons {
+	margin-bottom: 5px;
+	margin-right: 10px;
+}
+
+#footermain {
+	margin-top: 75px;
+}
+
+#supplier-table {
+	margin-left: 0px;
+}
+
+#supplier-table th {
+	font-weight: normal;
+
+	
+}
+
+#supplier-table td {
+	padding-top: 5px;
+}
+
+.sector-icons {
+	margin-right: 5px;
+}
+
+#group-image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}

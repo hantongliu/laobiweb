@@ -1,0 +1,35 @@
+[31-Jan-2019 00:23:48 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[31-Jan-2019 00:23:48 UTC] PHP Warning:  PHP Startup: http: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[31-Jan-2019 00:23:48 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[31-Jan-2019 00:23:48 UTC] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[31-Jan-2019 00:23:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zval_used_for_init in Unknown on line 0
+[31-Jan-2019 00:23:48 UTC] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[31-Jan-2019 00:23:48 UTC] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[30-Jan-2019 17:23:48 America/Denver] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/giobserv/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home2/giobserv/public_html/wp-content/plugins/hello.php on line 60

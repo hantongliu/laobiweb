@@ -1,0 +1,50 @@
+{
+    "steps": [],
+    "failures": [],
+    "skip": {
+        "plugin.akismet\/akismet.php": "skip",
+        "plugin.hello.php": "skip",
+        "plugin.jetpack\/jetpack.php": "skip",
+        "plugin.mojo-marketplace-wp-plugin\/mojo-marketplace.php": "skip",
+        "plugin.sumome\/sumome.php": "skip"
+    },
+    "output": {
+        "logs": [
+            "Starting up.",
+            "Starting step addWPDieHandler",
+            "Completed step addWPDieHandler.",
+            "Starting step prepareForInstallationProcess",
+            "Completed step prepareForInstallationProcess.",
+            "Starting step checkRequiredFiles",
+            "Completed step checkRequiredFiles.",
+            "Starting step checkCoreCompatibility",
+            "Completed step checkCoreCompatibility.",
+            "Starting step wpInstall",
+            "running WP Install",
+            "Completed step wpInstall.",
+            "Starting step setUpSiteOptions",
+            "Completed step setUpSiteOptions.",
+            "Starting step theme.activate",
+            "Skipping theme setup",
+            "Completed step theme.activate.",
+            "Starting step plugin.activateAll",
+            "Activating plugin akismet\/akismet.php",
+            "Activating plugin hello.php",
+            "Activating plugin jetpack\/jetpack.php",
+            "Activating plugin mojo-marketplace-wp-plugin\/mojo-marketplace.php",
+            {
+                "Hit an error inside step plugin.activateAll": {
+                    "errno": 8,
+                    "errstr": "Undefined index: HTTP_USER_AGENT",
+                    "errfile": "\/home2\/giobserv\/public_html\/wp-content\/plugins\/mojo-marketplace-wp-plugin\/inc\/user-experience-tracking.php",
+                    "errline": 33,
+                    "trace": "#0 \/home2\/giobserv\/public_html\/wp-content\/plugins\/mojo-marketplace-wp-plugin\/inc\/user-experience-tracking.php(33): MOJOOutput::error_handler(8, 'Undefined index...', '\/home2\/giobserv...', 33, Array)\n#1 \/home2\/giobserv\/public_html\/wp-content\/plugins\/mojo-marketplace-wp-plugin\/inc\/user-experience-tracking.php(128): mm_ux_log(Array)\n#2 [internal function]: mm_ux_log_activated(false)\n#3 \/home2\/giobserv\/public_html\/wp-includes\/plugin.php(525): call_user_func_array('mm_ux_log_activ...', Array)\n#4 \/home2\/giobserv\/public_html\/wp-admin\/includes\/plugin.php(585): do_action('activate_mojo-m...', false)\n#5 [internal function]: activate_plugin('mojo-marketplac...', NULL)\n#6 \/home2\/giobserv\/public_html\/MOJOWordpressInstaller-wlcU8AllLh.php(132): call_user_func_array('activate_plugin', Array)\n#7 \/home2\/giobserv\/public_html\/MOJOWordpressInstaller-wlcU8AllLh.php(1708): MOJOControlInverter->__call('mockable_activa...', Array)\n#8 \/home2\/giobserv\/public_html\/MOJOWordpressInstaller-wlcU8AllLh.php(1708): MOJOWordpressPluginHandler->mockable_activate_plugin('mojo-marketplac...', NULL)\n#9 \/home2\/giobserv\/public_html\/MOJOWordpressInstaller-wlcU8AllLh.php(1243): MOJOWordpressPluginHandler->activateAll()\n#10 \/home2\/giobserv\/public_html\/MOJOWordpressInstaller-wlcU8AllLh.php(1296): MOJOBaseHandler->exec('plugin.activate...')\n#11 \/home2\/giobserv\/public_html\/MOJOWordpressInstaller-wlcU8AllLh.php(892): MOJOBaseHandler->runStep()\n#12 \/home2\/giobserv\/public_html\/MOJOWordpressInstaller-wlcU8AllLh.php(866): MOJOProcess->executeSteps(Object(MOJOWordpressHandler))\n#13 \/home2\/giobserv\/public_html\/MOJOWordpressInstaller-wlcU8AllLh.php(1828): MOJOProcess->execute()\n#14 {main}"
+                }
+            },
+            "Activating plugin sumome\/sumome.php",
+            "Completed plugin activation",
+            "Completed step plugin.activateAll."
+        ],
+        "softFailures": []
+    }
+}
